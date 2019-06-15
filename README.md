@@ -12,6 +12,7 @@ un blog de git increible
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* Creado por el increíble Brayan
 
 Y como recordatorio "**este readme.md es un chiste**", No te lo tomes enserio, simplemente continúa estudiando y vas a ver que llegarás muy lejos
 
